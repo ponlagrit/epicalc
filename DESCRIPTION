@@ -1,0 +1,18 @@
+Package: epicalc
+Version: 3.6.0.1
+Date: 2023-02-09
+Title: Epidemiological Calculator
+Author: Virasakdi Chongsuvivatwong <cvirasak@medicine.psu.ac.th>
+Maintainer: Virasakdi Chongsuvivatwong <cvirasak@medicine.psu.ac.th>
+Depends: R (>= 4.1.0), foreign, survival, MASS, nnet
+Suggests:
+Description: Functions making R easy for epidemiological calculation.
+License: GPL (>= 2)
+URL: https://medipe.psu.ac.th/epicalc/
+Packaged: 2023-02-09 04:21:29 UTC; Kittisakdi Choomalee
+Repository: medipe
+Date/Publication: 2023-02-09 04:21:29 UTC
+NeedsCompilation: no
+LazyData: yes
+Imports: readxl
+Built: R 4.2.2; ; 2023-02-09 04:29:32 UTC; windows
